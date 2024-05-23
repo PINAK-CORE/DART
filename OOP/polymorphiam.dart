@@ -1,13 +1,13 @@
 void main()
 {
 
-  Animal cat = Cat();
+  Animal anim = Cat();
 
-  cat.say();
+  anim.say();
 
-  cat = Dog();
+  anim = Dog();
 
-  cat.say();
+  anim.say();
 
 }
 
