@@ -1,15 +1,15 @@
 void main() 
 {
 
-  int a = 10;
-  int b = 0;
+  // int a = 10;
+  // int b = 0;
 
   try 
   {
     // double c = a / b ;
     // print(c)  ;
 
-    print(10~/0);
+    print(10~/0); 
   } 
   catch (e) 
   {
